@@ -1,0 +1,8 @@
+numpy==1.10.4
+pandas==0.17.1
+pysolr==3.4.0
+python-dateutil==2.5.0
+pytz==2015.7
+requests==2.9.1
+six==1.10.0
+watson-developer-cloud==0.8.0
